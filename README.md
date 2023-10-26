@@ -17,11 +17,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
  # Mock up dashboard
 
-   ![image](https://github.com/niti007/Hospitality-Analysis/assets/90565444/e4b752d7-66d9-4ffc-97bd-d35f4d976897)
+   ![image](https://github.com/sophiarani-c/Hospitality-Analysis/blob/main/mock%20up%20dashboard_atliq%20grands.png)
 
 # Data Model
 
-![image](https://github.com/niti007/Hospitality-Analysis/assets/90565444/b27cc9a1-a016-48af-b900-519c59e00521)
+![image](https://github.com/sophiarani-c/Hospitality-Analysis/blob/main/Hospitality%20Analytics%20Data%20Model.jpg)
 
 # Important Insights from the Dashboard 
 
