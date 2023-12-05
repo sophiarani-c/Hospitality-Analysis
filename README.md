@@ -1,5 +1,7 @@
-Link to Interactive Dashboard- (https://app.powerbi.com/reportEmbed?reportId=8f4d76d9-f103-4045-931c-329f97ae81ef&autoAuth=true&ctid=d560c149-16a2-4de6-92ce-88930baf6398)
 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTk2ZWZiNDktYTliMC00NDJiLWFlYjEtMTNlYmZjMzU0MjBkIiwidCI6ImQ1NjBjMTQ5LTE2YTItNGRlNi05MmNlLTg4OTMwYmFmNjM5OCJ9">
+<img width="714" alt="HospitalityAnalysis-BI" src="https://github.com/sophiarani-c/Hospitality-Analysis/assets/149110280/1c590fe4-69df-4ec9-b20c-02f644043a13">
+</a>
 
 # Problem Statement
 
