@@ -39,10 +39,3 @@ Sample data and a mock-up dashboard is given to work on the following task.
 12. June has the highest cancellation rate.
 13. 199M revenue is lost due to cancellation.
 
-# Learned things from the project
-    
-- Acquired a comprehensive understanding of calculating RevPAR (Revenue Per Available Room) and its significance in assessing a hotel's revenue performance.
-- Gained insights into utilizing RevPAR to establish accurate room pricing strategies and to benchmark the performance of hotels against other properties or brands.
-- Explored the calculation of DBRN (Daily Booked Room Nights) as a key metric for understanding the average daily room bookings over a specified period.
-- Investigated the significance of DSRN (Daily Sellable Room Nights) in assessing the average number of rooms available for sale on a daily basis within a specific time frame.
-- Explored the calculation of DURN (Daily Utilized Room Nights) and its role in evaluating the average number of rooms effectively used by customers on a daily basis over a defined period.
